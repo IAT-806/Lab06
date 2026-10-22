@@ -24,7 +24,7 @@ Finish each step and check that it works before you start the next one.
 In `Ball.js`:
 
 - A class `Ball` with a `constructor` that takes a position, a color, and a radius, and stores them as attributes.
-- Methods `move()`, `changeSize()`, and `show()`. Each takes a parameter.
+- Methods `move()`, `changeSize()`, and `show()`. The first two take a parameter for how much.
 - A method `update()` that calls the other three.
 - Outside the class, a function `createRandomBall()` that makes a ball at a random position with a random color and returns it.
 
