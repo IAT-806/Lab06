@@ -88,6 +88,7 @@ In **Canvas**, submit:
 
 1. The link to your live sketch.
 2. The link to your `lab-06` folder in your GitHub repo.
+3. The submission will be after class on Wednesday.
 
 Need a reminder on adding a folder to your site? See [section 4 of the personal-website README](https://github.com/IAT-806/personal-website#4-add-a-submission).
 
