@@ -21,6 +21,7 @@ Finish each step and check that it works before you start the next one.
 2. Delete everything inside `lab-06/sketch.js`.
 3. Make a new empty file next to it: `lab-06/Ball.js`.
 4. In `lab-06/index.html`, add a `<script>` tag for `Ball.js`. It has to come **before** the one for `sketch.js`.
+5. I prefer if you do not read the rest of this document. And just try to do it off of memory. But this guide is here for you to take a look at.
 
 ## Step 1: the `Ball` class
 
